@@ -1,8 +1,8 @@
-### Hi there, I'm Eloi - aka Slom 👋
+## Hi there, I'm Eloi - aka Slom 👋
 
 [![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/eloi-richou/)
 
-## I'm currently studying at Epitech Paris
+### I'm currently studying at Epitech Paris
 
 - 🌱 I’m learning pretty much everything 
 
